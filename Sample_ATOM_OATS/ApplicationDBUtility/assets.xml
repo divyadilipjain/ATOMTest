@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="atom_dbutil" local="true" sourceType="file" type="GENERICJAR">
+<location path="../jars/atom_dbutil_1.1.jar" type="relative"/>
+</asset>
+<asset alias="atom_oats_parallel" local="true" sourceType="file" type="GENERICJAR">
+<location path="../jars/atom_oats_parallel_1.1.jar" type="relative"/>
+</asset>
+<asset alias="pdfbox" local="true" sourceType="file" type="GENERICJAR">
+<location path="resources/pdfbox-1.8.7.jar" type="relative"/>
+</asset>
+<asset alias="pdfbox-app" local="true" sourceType="file" type="GENERICJAR">
+<location path="resources/pdfbox-app-1.7.0.jar" type="relative"/>
+</asset>
+</assets>

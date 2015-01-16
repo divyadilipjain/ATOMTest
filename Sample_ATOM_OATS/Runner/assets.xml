@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="Scenario_Login" local="true" sourceType="file" type="SCRIPT">
+<location path="../testScripts/Scenario_Login" type="relative"/>
+</asset>
+<asset alias="Scenario_Navigation" local="true" sourceType="file" type="SCRIPT">
+<location path="../testScripts/Scenario_Navigation" type="relative"/>
+</asset>
+<asset alias="ApplicationDBUtility" local="true" sourceType="file" type="SCRIPT">
+<location path="../ApplicationDBUtility" type="relative"/>
+</asset>
+<asset alias="atom_dbutil" local="true" sourceType="file" type="GENERICJAR">
+<location path="../jars/atom_dbutil_1.1.jar" type="relative"/>
+</asset>
+<asset alias="atom_oats_parallel" local="true" sourceType="file" type="GENERICJAR">
+<location path="../jars/atom_oats_parallel_1.1.jar" type="relative"/>
+</asset>
+</assets>
