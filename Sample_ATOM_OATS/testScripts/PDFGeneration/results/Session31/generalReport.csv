@@ -1,6 +1,0 @@
-1051,1,PDFGeneration,1/14/2015 19:58:56 PM,Failed,1/14/2015 19:58:55 PM,basic.step,testScripts,,,,
-"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
-"Initialize Total (sec)",,422,Passed,"",basic.init,
-"Iteration Total (sec)",,213,Failed,"",basic.iteration,
-"Unexpected Failure",,0,Failed,"basic Caused by: NullPointerException occured.",basic.step,
-"Finish Total (sec)",,51,Passed,"",basic.finish,

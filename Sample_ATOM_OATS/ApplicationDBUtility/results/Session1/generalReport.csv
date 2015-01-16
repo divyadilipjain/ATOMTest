@@ -1,5 +1,0 @@
-1137,1,ApplicationDBUtility,1/14/2015 21:17:48 PM,Failed,1/14/2015 21:17:47 PM,basic.step,Sample_ATOM_OATS,,,,
-"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
-"Initialize Total (sec)",,681,Passed,"",basic.init,
-"Iteration Total (sec)",,81,Failed,"An unexpected exception occurred in the script. Script section: Unspecified. Caused by: ClassNotFoundException occured. org.apache.pdfbox.pdfparser.PDFParser",basic.iteration,
-"Finish Total (sec)",,87,Passed,"",basic.finish,
