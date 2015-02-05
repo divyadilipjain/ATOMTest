@@ -1,5 +1,0 @@
-887,1,Runner,2/04/2015 11:19:08 AM,Passed,2/04/2015 11:19:07 AM,basic.step,ATOM_OATS,,,,
-"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
-"Initialize Total (sec)",,335,Passed,"",basic.init,
-"Iteration Total (sec)",,166,Passed,"",basic.iteration,
-"Finish Total (sec)",,99,Passed,"",basic.finish,
