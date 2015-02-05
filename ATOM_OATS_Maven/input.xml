@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ATOM>
+	<parameters>
+		<Test-type>Adhoc</Test-type>
+		<portfolio>CITS</portfolio>
+		<ReleaseId>12345</ReleaseId>
+		<appId>7001</appId>
+		<trackId>201</trackId>
+		<testScriptIds>701,702</testScriptIds>
+		<cycle>NA</cycle>
+	</parameters>
+	
+</ATOM>

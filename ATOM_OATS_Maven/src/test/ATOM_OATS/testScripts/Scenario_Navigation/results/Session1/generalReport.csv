@@ -1,0 +1,5 @@
+648,1,Scenario_Navigation,2/02/2015 21:04:24 PM,Passed,2/02/2015 21:04:23 PM,basic.step,testScripts,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,310,Passed,"",basic.init,
+"Iteration Total (sec)",,76,Passed,"",basic.iteration,
+"Finish Total (sec)",,51,Passed,"",basic.finish,

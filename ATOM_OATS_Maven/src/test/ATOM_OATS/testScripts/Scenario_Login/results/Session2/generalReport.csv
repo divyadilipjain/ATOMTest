@@ -1,0 +1,5 @@
+669,1,Scenario_Login,2/02/2015 21:02:58 PM,Passed,2/02/2015 21:02:58 PM,basic.step,testScripts,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,317,Passed,"",basic.init,
+"Iteration Total (sec)",,78,Passed,"",basic.iteration,
+"Finish Total (sec)",,54,Passed,"",basic.finish,

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="CommonUtility" local="true" sourceType="file" type="SCRIPT">
+<location category="ATOM_OATS_Maven/src/test/ATOM_OATS" file="CommonUtility" repository="Default" type="repository"/>
+</asset>
+<asset alias="ApplicationDBUtility" local="true" sourceType="file" type="SCRIPT">
+<location category="ATOM_OATS_Maven/src/test/ATOM_OATS" file="ApplicationDBUtility" repository="Default" type="repository"/>
+</asset>
+</assets>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="atom_oats_report" local="true" sourceType="file" type="GENERICJAR">
+<location path="../../jars/atom_oats_report_1.1.jar" type="relative"/>
+</asset>
+<asset alias="atom_dbutil" local="true" sourceType="file" type="GENERICJAR">
+<location path="../../jars/atom_dbutil_1.1.jar" type="relative"/>
+</asset>
+<asset alias="atom_oats_parallel" local="true" sourceType="file" type="GENERICJAR">
+<location path="../../jars/atom_oats_parallel_1.1.jar" type="relative"/>
+</asset>
+<asset alias="ApplicationDBUtility" local="true" sourceType="file" type="SCRIPT">
+<location category="Sample_ATOM_OATS" file="ApplicationDBUtility" repository="Default" type="repository"/>
+</asset>
+</assets>
